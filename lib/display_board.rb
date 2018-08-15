@@ -1,3 +1,5 @@
+board = ["   ","   ","   ","   ","   ","   ","   ","   ","   "]
+
 def display_board
   columns = "   ""|""   ""|""   "
   puts columns
@@ -8,5 +10,3 @@ def display_board
   puts columns
 end
 display_board
-
-board = ["   ","   ","   ","   ","   ","   ","   ","   ","   "]
