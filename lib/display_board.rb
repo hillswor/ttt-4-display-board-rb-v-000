@@ -1,9 +1,6 @@
-board = ["   ","   ","   "," X ","   ","   ","   ","   ","   "]
-
 def display_board(board)
-  columns = "   ""|""   ""|""   "
-  puts columns
-  rows = "-----------"
+  puts "   ""|""   ""|""   "
+  puts "-----------"
   puts rows
   puts columns
   puts rows
