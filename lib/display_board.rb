@@ -1,2 +1,11 @@
-# Define display_board that accepts a board and prints
-# out the current state.
+def display_board
+  columns = "   ""|""   ""|""   "
+  puts columns
+  rows = "-----------"
+  puts rows
+  puts columns
+  puts rows
+  puts columns
+end
+display_board
+
